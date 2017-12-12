@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang=”pt-br”>
+<head>
+                <meta charset=”utf-8″>
+                <title>Luma - Livros Usados Manaus | Compra, Venda, Troca e Doações de livros usados</title>
+                <link rel=”stylesheet” type=”text/css” href=”main.css”>
+</head>
+<body>
+
+<section id=”geral”>
+               <header id=banner>
+
+                               <img src=banner.jpg>
+
+</header>
+
+                <nav id=topo>
+
+                              <ul>
+                                               <li><a href=#>Inicio</a></li> |
+                                               <li><a href=#>Categorias</a></li> |
+                                               <li><a href=#>Adicionar Livros</a></li> |
+                                               <li><a href=#>Ajuda</a></li>
+                               </ul>
+
+</nav>
+
+          <article id=”principal”>
+
+                              <header>
+                                               <font   size=5><strong>Como criar aplicativos em HTML5 para celulares</strong></font>
+                               </header>
+                                              <img src=banner.jpg border=0>
+
+                                              <p> Criar um app para smartphones não é uma tarefa fácil, principalmente uma vez que o “recente” <abbr title=”Hypertext Markup Language – versão 5″>HTML5</abbr> está tomando o mercado. Mas não se preocupe: o Tecmundo preparou um tutorial que vai mostrar como usar o Mobello — um poderoso construtor de aplicativos — para facilitar todo o processo, permitindo que você faça softwares para portáteis nessa linguagem.</p>                                              
+
+                                               <font size=5><strong>Mobello Studio</strong></font>                                              
+
+                                               <p><em>Mobello Studio</em> é um framework com interface javascript de alta performance totalmente gratuito, além de ser open source. Ele é voltado para a criação de aplicativos em HTML5, os quais são feitos para rodar, sobretudo, em smartphones e tablets.</p> 
+
+                                               <p>Usando arquitetura MVC, ele permite que o código do app fique mais organizado e fácil de entender. Com as suas ferramentas, é possível criar, personalizar e testar aplicativos feitos em HTML5.</p> 
+
+                                               <p>Uma vez que é voltado para o desenvolvimento de aplicativos para portáteis, ele apresenta desempenho melhorado para identificar variados tipos de toque de tela. Em relação ao seu editor, ele conta com mais de 20 componentes para você usar na interface do seu aplicativo, assim como o suporte para o uso de elementos em CSS3.</p> 
+
+                                               <font size=5><strong>Ferramenta versátil</strong></font>
+
+                                               <p>Embora o foco principal do <strong>Mobello</strong> Studio sejam apps para smartphones, uma vez que trabalha com HTML5, suas possibilidades se expandem aos limites que ele proporciona. Em outras palavras, o programa também permite a criação de sites completos, assim como plugins, joguinhos online e várias outras coisas que hoje ainda são feitas principalmente por meio de Flash</p>
+
+</article>
+
+<aside id=”canto_direito”>
+
+<img src=banner.jpg>
+
+                               <h1> Campus Party 2013 <br> Confira os vencedores</h1>
+
+                               <p>Em parceria com o Facebook, a Telefônica/Vivo realizou durante a Campus Party 2013 um hackathon de desenvolvimento de aplicativos em HTML5 para o Firefox OS como uma forma de incentivar designers e programadores.</p>
+
+                              
+
+                               <img src=diferenca.jpg>
+
+                               <h1> Qual é a diferença entre sites Flash e em HTML5?</h1>
+
+                               <p>Páginas web com conteúdo dinâmico não são mais nenhuma novidade. Graças ao Flash, da Adobe, hoje é possível criar sites totalmente animados e com uma rotatividade de conteúdo muito maior do que antigamente.</p>
+
+</aside>
+
+<footer id=quatro>
+
+                               <nav>
+                                               <ul>
+                                               <li><a href=#>Área Restrita</a></li> |
+                                               <li><a href=#>Contato</a></li> |
+                                               <li><a href=#>Downloads</a></li> |
+                                               <li><a href=#>Galeria de Fotos</a></li>
+                                               </ul>
+                               </nav>
+
+</footer>
+
+</section>
+
+</body>
+</html>

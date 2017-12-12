@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns:fb="http://www.facebook.com/2008/fbml">
+   <head>
+	   <meta charset="utf-8">
+	   <title>Luma - Livros Usados Manaus | Compra, Venda, Troca e Doações de livros usados</title>
+	   <meta name="keywords" content="HTML5, CSS3, frontend, agni">
+	   <meta name="description" content="Quer vender, comprar, trocar ou doar seus livros usados? Seu lugar é aqui!.">
+	   <meta name="author" content="carolbastos" >
+	   <meta name="robots" content="index,follow">
+	   <link rel="alternate" type="application/rss+xml" title="Feed de notícias" href="/feed">
+	   <link rel="stylesheet" type="text/css" href="main.css">
+	   <script src="/sidecode/scripts.js"></script>
+	</head>
+	<header class="banner">
+	   <img alt="logo" src="banner.png" width="980" height="150">
+	   <form  id="searchform" method="get">
+	       
+	       <input type="text" placeholder="Pesquisa" id="s">
+	       <input type="submit" value="Pesquisa" class="submit">
+	   </form>
+	</header>
+	
+   <body>
+       <p>Olá mundo!</p>
+   </body>
+</html>
+
